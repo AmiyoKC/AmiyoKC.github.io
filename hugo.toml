@@ -1,0 +1,4 @@
+baseURL = 'https://amiyokc.github.io/'
+languageCode = 'en-us'
+title = "Amiyo's blog!" 
+theme = "paper"
